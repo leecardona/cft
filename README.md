@@ -1,2 +1,2 @@
 # cft
-CloudFormation Templates
+Collection of useful CloudFormation Templates.
